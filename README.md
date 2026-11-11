@@ -33,8 +33,9 @@
 - **Link:** [View Repository](https://github.com/Pappafabian17/calendario-almuerzos)
 
 
-
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pappafabian17&show_icons=true&theme=radial)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pappafabian17&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pappafabian17&show_icons=true&theme=tokyonight&count_private=true" alt="Joel's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappafabian17&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="165" />
+</p>
